@@ -32,8 +32,8 @@ ipycanvas>=0.9.1
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
 
-# Python: plotting libraries (optional)
+# Python: Code libraries 
 matplotlib
 numpy
 scipy
-solidspy
+solidspy==1.1.0
